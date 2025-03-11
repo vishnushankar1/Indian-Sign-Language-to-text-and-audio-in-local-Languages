@@ -57,7 +57,7 @@ This project aims to recognize Indian Sign Language (ISL) gestures using deep le
 ## Future Enhancements
 - Increase dataset size and diversity.
 - Improve model accuracy with more advanced architectures.
-- Implement mobile and web-based applications.
+- web-based applications.
 
 ## License
 This project is licensed under the MIT License.
